@@ -1,0 +1,9 @@
+## Reflection
+
+Building NeighborFit has been a really rewarding journey for me. I got hands-on experience connecting a React frontend with a Node.js backend, and learned how to use JSON data in a way that actually solves a real problem. Creating the matching algorithm was especially interesting—it showed me how user preferences can be turned into meaningful, personalized results.
+
+Of course, there were challenges along the way! Making sure the backend and frontend communicated smoothly (especially after changing the dataset) sometimes took a lot of careful testing and troubleshooting. But working through those issues taught me how important it is to keep things organized and to test each part of the app as I go.
+
+I’m really happy with how the app looks and feels. It’s clean, classic, and easy for anyone to use. If I had more time, I’d love to add features like user accounts, saving preferences, and maybe even use a bigger, real-world dataset. Putting the app online for others to try would be a great next step, too.
+
+Overall, this project has boosted my confidence in full-stack development and made me excited to build more apps that help people in practical ways.

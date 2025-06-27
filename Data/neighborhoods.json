@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Greenfield",
+    "safety": 8,
+    "schools": 9,
+    "nightlife": 4,
+    "parks": 8,
+    "affordability": 7,
+    "public_transport": 6
+  },
+  {
+    "name": "Downtown",
+    "safety": 5,
+    "schools": 6,
+    "nightlife": 9,
+    "parks": 5,
+    "affordability": 4,
+    "public_transport": 9
+  },
+  {
+    "name": "Lakeside",
+    "safety": 7,
+    "schools": 8,
+    "nightlife": 3,
+    "parks": 9,
+    "affordability": 8,
+    "public_transport": 5
+  },
+  {
+    "name": "Sunnyvale",
+    "safety": 9,
+    "schools": 8,
+    "nightlife": 2,
+    "parks": 7,
+    "affordability": 6,
+    "public_transport": 7
+  },
+  {
+    "name": "Old Town",
+    "safety": 6,
+    "schools": 5,
+    "nightlife": 7,
+    "parks": 6,
+    "affordability": 8,
+    "public_transport": 6
+  },
+  {
+    "name": "Hilltop",
+    "safety": 8,
+    "schools": 7,
+    "nightlife": 5,
+    "parks": 8,
+    "affordability": 5,
+    "public_transport": 4
+  },
+  {
+    "name": "Riverside",
+    "safety": 7,
+    "schools": 6,
+    "nightlife": 6,
+    "parks": 9,
+    "affordability": 7,
+    "public_transport": 7
+  },
+  {
+    "name": "West End",
+    "safety": 5,
+    "schools": 7,
+    "nightlife": 8,
+    "parks": 5,
+    "affordability": 6,
+    "public_transport": 8
+  },
+  {
+    "name": "Maple Grove",
+    "safety": 9,
+    "schools": 9,
+    "nightlife": 3,
+    "parks": 8,
+    "affordability": 7,
+    "public_transport": 5
+  },
+  {
+    "name": "Brookfield",
+    "safety": 6,
+    "schools": 8,
+    "nightlife": 6,
+    "parks": 7,
+    "affordability": 8,
+    "public_transport": 6
+  }
+]
